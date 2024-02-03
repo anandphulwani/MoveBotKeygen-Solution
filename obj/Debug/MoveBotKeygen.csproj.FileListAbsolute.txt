@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MoveBotKey.resources
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\obj\Debug\MoveBotKeygen.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\obj\Debug\MoveBotKeygen.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\bin\Debug\MoveBotKeygen.exe.config
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\bin\Debug\MoveBotKeygen.exe
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\bin\Debug\MoveBotKeygen.pdb
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\obj\Debug\MoveBotKeygen.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\obj\Debug\MoveBotKeygen.exe
+C:\Users\Administrator\Desktop\MoveBotDecompileVB2\WindowsFormsApp1\obj\Debug\MoveBotKeygen.pdb
